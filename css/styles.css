@@ -802,9 +802,7 @@ color: #8E8F99;
     transition-timing-function: var(--cubic);
 }
 
-.checkbox {
-    display: none;
-}
+
 
 .checkbox:checked + label .icon-accept {
     border: none;
